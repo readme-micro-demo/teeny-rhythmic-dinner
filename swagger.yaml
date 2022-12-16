@@ -191,8 +191,7 @@ paths:
           description: ID of pet that needs to be updated
           required: true
           schema:
-            type: integer
-            format: int64
+            type: string
       requestBody:
         content:
           application/x-www-form-urlencoded:
