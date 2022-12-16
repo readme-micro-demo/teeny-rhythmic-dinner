@@ -24,7 +24,7 @@ tags:
       url: http://swagger.io
   - name: store
     description: Access to Petstore orders
-  - name: user
+  - name: type
     description: Operations about user
     externalDocs:
       description: Find out more about our store
